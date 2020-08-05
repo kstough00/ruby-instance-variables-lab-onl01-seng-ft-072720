@@ -1,4 +1,6 @@
-class Dog 
-  def this_dogs_name
-    
+class Dog
+  def this_dogs_name(name)
+    puts "#{name}"
+  end
+  
 end
